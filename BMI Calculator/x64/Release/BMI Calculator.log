@@ -1,9 +1,0 @@
-﻿  main.cpp
-  Person.cpp
-C:\Users\Miles James\Code Projects\BMI Calculator\Person.cpp(7,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-C:\Users\Miles James\Code Projects\BMI Calculator\Person.cpp(15): warning C4715: 'Person::calculate': not all control paths return a value
-  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  BMI Calculator.vcxproj -> C:\Users\Miles James\Code Projects\BMI Calculator\x64\Release\BMI Calculator.exe
